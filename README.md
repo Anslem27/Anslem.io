@@ -1,8 +1,8 @@
-# Anslem.io developer portfolio website
+# Anslem.io
 
 ### Personal developer portfolio WebApp wih [Flutter](https://flutter.dev)
 
-<img src="doc/show_case.png" alt="ShowCase Image">
+<img src="doc/Screenshot 2022-11-06 230437.png" alt="ShowCase Image">
 
 **Note**
 
@@ -13,7 +13,9 @@
 
 ## Getting Started
 
-- Clone repo [here](https://github.com/)
+- Clone repo [here](https://github.com/Anslem27/Anslem.io)
+
+**If you wish to contribute to this particular repository, switch to `production branch` and make a pull request**
 
 - [Guide](https://firebase.google.com/docs/flutter/setup)
   `Setup new firebase app. `
